@@ -2,4 +2,6 @@ let's practice git!
 changed!
 merci
 changed again
+git diff
+
 
